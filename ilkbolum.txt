@@ -6,3 +6,5 @@ ilk bölüm : değişkenler ve veri tipleri.
 
 Değişkenler çok öenmlidir.
 
+bugün branchleri ögreniyoruz.
+
