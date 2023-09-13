@@ -1,1 +1,3 @@
-deneysel yazılar yazacağız
+deneysel yazılar yazacağız.
+
+ikinci deneysel satırmızı da yazdık.
