@@ -8,3 +8,5 @@ Değişkenler çok öenmlidir.
 
 bugün branchleri ögreniyoruz.
 
+son commiti atalım.
+
