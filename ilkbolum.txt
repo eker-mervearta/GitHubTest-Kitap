@@ -1,0 +1,3 @@
+python kitabo
+
+bu kitap çok güzel olacak , hepimiz python öğreneceğiz
